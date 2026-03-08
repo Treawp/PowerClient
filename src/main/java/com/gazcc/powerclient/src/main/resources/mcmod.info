@@ -1,0 +1,8 @@
+[{
+  "modid": "powerclient",
+  "name": "PowerClient",
+  "description": "MobAura + Smooth Rotation. 1.8.9 Forge.",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "authorList": ["Gazcc / Ega Ganteng"]
+}]
